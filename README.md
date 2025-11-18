@@ -54,19 +54,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# Transform Your Arduino into Automatic Coin Operated Machine
-
-- Course: Transform Your Arduino into Automatic Coin Operated Machine
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/load-cell-weight-measuring-machine-using-arduino/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Use sensors and actuators to build a coin-operated machine with Arduino.
-
-## Purchase With Discount
-
-Enroll using the link above to get a discounted price and build automation.
